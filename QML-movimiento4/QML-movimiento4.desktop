@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=QML-movimiento4
+Exec=QML-movimiento4
+Icon=QML-movimiento4/QML-movimiento4.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

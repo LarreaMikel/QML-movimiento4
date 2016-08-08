@@ -1,0 +1,17 @@
+{
+    "name": "qml-movimiento4.larreamikel",
+    "description": "description of QML-movimiento4",
+    "architecture": "@CLICK_ARCH@",
+    "title": "QML-movimiento4",
+    "hooks": {
+        "QML-movimiento4": {
+            "apparmor": "QML-movimiento4/QML-movimiento4.apparmor",
+            "desktop":  "QML-movimiento4/QML-movimiento4.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mikel Larrea <developer@larreamikel.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
