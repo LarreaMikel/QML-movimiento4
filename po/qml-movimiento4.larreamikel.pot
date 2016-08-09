@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-04 01:14+0200\n"
+"POT-Creation-Date: 2016-08-09 23:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/larreamikel/Code/Touch/build-QML-movimiento4-Desktop-Debug/QML-movimiento4/QML-movimiento4.desktop.h:1
+#: /home/larreamikel/Code/Touch/build-QML-movimiento4-Ubuntu_Device3_GCC_armhf_ubuntu_sdk_15_04_vivid-Debug/QML-movimiento4/QML-movimiento4.desktop.h:1
 msgid "QML-movimiento4"
 msgstr ""

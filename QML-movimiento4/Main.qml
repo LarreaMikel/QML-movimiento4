@@ -10,30 +10,17 @@ MainView {
     objectName: "mainView"
 
     // Note! applicationName needs to match the "name" field of the click manifest
-    applicationName: "qml-movimiento3.larreamikel"
+    applicationName: "qml-movimiento4.larreamikel"
 
-    width: units.gu(100)
-    height: units.gu(75)
-
- //   Page {
-//        header: PageHeader {
-//            id: pageHeader
-//            title: i18n.tr("Qml-movimiento")
-//            StyleHints {
-//                foregroundColor: UbuntuColors.orange
-//                backgroundColor: UbuntuColors.porcelain
-//                dividerColor: UbuntuColors.slate
-//            }
-//        }
-
-
-
+    width: units.gu(55)
+    height: units.gu(90)
 
         Image {
             id: root
             source: "images/background.png"
-            width: units.gu(100)
-            height: units.gu(75)
+            width: units.gu(55)
+            height: units.gu(90)
+            fillMode: Image.PreserveAspectCrop
 
             Image {
                 id: pole
